@@ -1,5 +1,5 @@
 # 📊 Global Stock Market Intelligence Dashboard
-
+live:https://global-stock-intelligence-dashboard.streamlit.app/
 ## 🚀 Overview
 
 This project is an **end-to-end financial analytics system** built using Python, designed to analyze and visualize global stock market data across multiple companies, industries, and countries.
